@@ -1,13 +1,13 @@
 # 🎮 SIMPLE TURN-BASED COMBAT SYSTEM DEMO
 
 A basic **turn-based combat simulator** implemented in C++.  
-This educational mini-project was created to practice fundamental C++ programming concepts and basic game logic.  
+This educational mini-project practices fundamental C++ programming concepts.
 
 ---
 
-## 📖 Description
+## 📋 Description
 
-The player and enemy take turns attacking until one side is defeated:  
+The player and enemy take turns attacking until one side is defeated:
 
 - **Player actions**:
   - Normal attack (random damage 5-10)
@@ -17,17 +17,31 @@ The player and enemy take turns attacking until one side is defeated:
 - **Enemy actions**:
   - Automatic attack each round (random damage 7-12)
 
-The combat loop runs until either the player or enemy's HP reaches 0.
-
 ---
 
-## 🔧 Features demonstrated:
+## 🧩 Features demonstrated:
+
 ✅ `while` loop for main game loop  
 ✅ `switch-case` control structure for action selection  
 ✅ Random number generation (`rand()`, `srand()`)  
 ✅ Conditionals (`if`, `else`) for combat logic  
 ✅ Basic input/output interaction (`cin`, `cout`)  
 ✅ Simple simulation of combat mechanics
+
+---
+
+## 🔧 How to run
+
+1️⃣ Compile with a C++ compiler that supports C++11 or later (e.g., `g++` or Visual Studio).  
+2️⃣ Run the executable and follow console prompts.
+
+---
+
+## 👤 Author
+
+**Dawid Chrobak**  
+Aspiring Game Developer  
+[LinkedIn](https://www.linkedin.com/in/dawid-chrobak-9511a0373/) | [GitHub](https://github.com/dChrobakDev)
 
 ---
 
